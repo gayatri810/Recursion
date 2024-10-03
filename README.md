@@ -1,7 +1,5 @@
 # Recursion
 
-Experiment 15
-
 ## Aim 
 To study Recursion
 
